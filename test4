@@ -1,0 +1,11 @@
+group zygmunt mieszko chrobry mietek
+zygmunt 36 even
+mieszko 88 even
+chrobry 24 even
+mietek 45 even
+# piwo 
+group mieszko chrobry mietek
+mieszko 25 even
+# szoty
+group zygmunt chrobry mieszko
+chrobry 20 even
